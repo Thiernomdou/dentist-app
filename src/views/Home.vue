@@ -119,7 +119,7 @@
                         <img src="https://cdn.vuetifyjs.com/images/lists/3.jpg" alt="profil">
                       </v-list-item-avatar>
                       <v-list-item-content>
-                        <v-list-item-title>Chloé Garcia</v-list-item-title>
+                        <v-list-item-title>Chloé ROUAST</v-list-item-title>
                         <v-list-item-subtitle class="teal--text">15 ans, Lyon</v-list-item-subtitle>
                       </v-list-item-content>
                       <v-spacer></v-spacer>
